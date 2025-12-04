@@ -8,8 +8,8 @@
     <modules>
         <module>ticketflash-common</module>
         <module>ticketflash-booking-service</module>
-        <module>ticketflash-order-service</module>
-        <module>ticketflash-notification-service</module>
+        <!-- <module>ticketflash-order-service</module>
+        <module>ticketflash-notification-service</module> -->
     </modules>
 
     <parent>
