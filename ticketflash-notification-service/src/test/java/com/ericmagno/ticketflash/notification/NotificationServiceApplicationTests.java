@@ -1,13 +1,14 @@
-package com.ericmagno.ticketflash_booking_service;
+package com.ericmagno.ticketflash.notification;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TicketflashBookingServiceApplicationTests {
+class NotificationServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
 }
+

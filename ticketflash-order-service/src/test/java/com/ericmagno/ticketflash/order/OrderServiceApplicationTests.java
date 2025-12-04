@@ -1,13 +1,14 @@
-package com.ericmagno.ticketflash_notification_service;
+package com.ericmagno.ticketflash.order;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TicketflashNotificationServiceApplicationTests {
+class OrderServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
 }
+

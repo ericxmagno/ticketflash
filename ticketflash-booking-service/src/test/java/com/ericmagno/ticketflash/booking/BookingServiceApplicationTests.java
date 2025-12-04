@@ -1,13 +1,14 @@
-package com.ericmagno.ticketflash_order_service;
+package com.ericmagno.ticketflash.booking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TicketflashOrderServiceApplicationTests {
+class BookingServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
 	}
 
 }
+
